@@ -63,6 +63,7 @@ public class Disenyo {
             public void mouseEntered(java.awt.event.MouseEvent evt) {
                 btnCenter.setBackground(Color.GREEN);
                 //btnCenter.helloWorld();
+                //https://www.youtube.com/watch?v=tj5sLSFjVj4
                 Disenyo d = new Disenyo();
                 d.usinInterface(() -> d.f.getTitle("tittle"));
 
